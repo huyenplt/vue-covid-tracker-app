@@ -4,7 +4,7 @@
 <ul>
  <li>Simple project displays the new/total cases and deaths globaly as well as per country </li> 
  <li>Using VueCLI, Tailwind & ChartJS </li>
- <li>Here is a working live demo: [Duck Duck Go](https://vue-covid-tracker.herokuapp.com). </li>
+ Here is a working live demo: [Duck Duck Go](https://vue-covid-tracker.herokuapp.com).
 </ul>
 
 ## Project setup
