@@ -4,12 +4,10 @@
 <ul>
  <li>Simple project displays the new/total cases and deaths globaly as well as per country </li> 
  <li>Using VueCLI, Tailwind & ChartJS </li>
- Here is a working live demo: [Duck Duck Go](https://vue-covid-tracker.herokuapp.com).
- My favorite search engine is [Duck Duck Go](https://vue-covid-tracker.herokuapp.com).
 </ul>
+Here is a working live demo: [Duck Duck Go](https://vue-covid-tracker.herokuapp.com).
 
 ## Project setup
-My favorite search engine is [Duck Duck Go](https://vue-covid-tracker.herokuapp.com).
 > install npm packages
 ```
 npm install
