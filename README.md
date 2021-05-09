@@ -8,6 +8,7 @@
 </ul>
 
 ## Project setup
+My favorite search engine is [Duck Duck Go](https://duckduckgo.com).
 > install npm packages
 ```
 npm install
