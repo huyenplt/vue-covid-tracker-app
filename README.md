@@ -1,7 +1,8 @@
 # Covid-19 Tracker App
 
-## Overview
-> simple excercise to practise VueJS
+## General
+ simple excercise to practise VueJS
+Here is a working live demo: [Demo](https://vue-covid-tracker.herokuapp.com)
 
 ## Project setup
 > install npm packages
