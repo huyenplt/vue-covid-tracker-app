@@ -2,8 +2,8 @@
 
 ## General
 <ul>
- <li> Displays the new/total cases and deaths globaly as well as per country </li> 
- <li>Simple excercise useVueJS </li>
+ <li>Simple project displays the new/total cases and deaths globaly as well as per country </li> 
+ <li>Using VueCLI, Tailwind & ChartJS </li>
  <li>Here is a working live demo: [Demo](https://vue-covid-tracker.herokuapp.com)</li>
 </ul>
 
