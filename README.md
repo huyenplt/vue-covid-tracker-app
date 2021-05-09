@@ -1,24 +1,20 @@
-# Covid Tracker App
+# Covid-19 Tracker App
+
+## Overview
+> simple excercise to practise VueJS
 
 ## Project setup
+> install npm packages
 ```
 npm install
 ```
 
-### Compiles and hot-reloads for development
+> Run the Vue dev server (http://localhost:8080)
 ```
 npm run serve
 ```
 
-### Compiles and minifies for production
+> Compiles and minifies for production
 ```
 npm run build
 ```
-
-### Lints and fixes files
-```
-npm run lint
-```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
