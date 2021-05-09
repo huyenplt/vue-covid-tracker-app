@@ -1,4 +1,4 @@
-# covid-tracker
+# Covid Tracker App
 
 ## Project setup
 ```
